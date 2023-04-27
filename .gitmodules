@@ -1,0 +1,6 @@
+[submodule "cryptfund-client"]
+	path = cryptfund-client
+	url = git@github.com:shaheer73/cryptfund-client.git
+[submodule "cryptfund-web3"]
+	path = cryptfund-web3
+	url = git@github.com:shaheer73/cryptfund-web3.git
